@@ -66,3 +66,26 @@ p.round2{border:2px solid red;
 p.round3{border:2px solid red;
     padding:5px;
     border-radius:12px;}
+
+div {
+    background-color:lightgray;
+    width:400px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+p.ex1 {outline: dashed;}
+p.ex2 {outline: dotted red;}
+p.ex3 {outline: 5px solid yellow;}
+p.ex4 {outline: thick ridge pink;}
+
+p.ex5{
+    margin: 40px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 5px solid red;
+    outline-offset: 15px;
+}
+
+
