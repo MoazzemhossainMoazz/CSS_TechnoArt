@@ -1,0 +1,39 @@
+* {
+    text-align:center;
+    color:blue;
+}
+
+h1, h3, h4, h5 {
+    color: white;
+    font-family:Tahoma;
+    background-color:red;
+}
+.my_btn{
+    background: #89b465;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 10px 20px;
+    font-size: 14px;  
+    cursor: pointer;  
+
+}
+.menu{}
+.menuitem{
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+    text-align: left;
+}
+.menuitem a{
+    text-decoration: none;
+    color: gray;
+}
+body {
+    background-color:skyblue;
+    background-image: url("fishlogo.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 450px;
+    background-attachment: fixed;
+  }
