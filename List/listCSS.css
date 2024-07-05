@@ -1,0 +1,31 @@
+ul.a {
+    list-style-type:circle;
+    background-color:skyblue;
+    padding:20px;
+}
+ul.b {
+    list-style-type:square;
+}
+ol.c {
+    list-style-type: upper-roman;
+    background-color:yellowgreen;
+    padding:20px;
+}
+ol.d {
+    list-style-type:lower-greek;
+}
+
+
+ol li{
+    background: #ffe5e5;
+  color: darkred;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+ul li {
+    background: #ffe5e5;
+  color: darkred;
+  padding: 5px;
+  margin-left: 35px;
+}
